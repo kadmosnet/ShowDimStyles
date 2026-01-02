@@ -43,7 +43,7 @@
             // 
             this.dxfReaderNETControl1.AntiAlias = true;
             this.dxfReaderNETControl1.AutoSize = true;
-            this.dxfReaderNETControl1.ContinuousHighlight = false;
+            
             this.dxfReaderNETControl1.CustomCursor = DXFReaderNET.CustomCursorType.None;
             this.dxfReaderNETControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             dxfDocument1.ActiveLayout = "Model";
